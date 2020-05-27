@@ -1,3 +1,3 @@
 # MKST
-We will upload model and dataset soon
+We will update readme and upload model&dataset soon.
 
