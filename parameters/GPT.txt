@@ -1,0 +1,1 @@
+If you want to retrain the model, please download the model parameters from the OpenAI GPT official website.
